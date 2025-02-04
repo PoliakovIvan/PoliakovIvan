@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/119449200?s=400" align="center" height="50" width="50" />
-</div>  
-  
-
 ### <div align="center"><H1>Hello! I'm Ivan, a python developer</H1></div>  
   
 
